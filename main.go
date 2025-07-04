@@ -4,6 +4,7 @@ import "fmt"
 
 func main() {
 	fmt.Println("Hello,world")
-	age := 5
-	fmt.Println(age)
+	name := "Toom"
+	fmt.Println(name)
+	fmt.Println("nice to meet you")
 }
