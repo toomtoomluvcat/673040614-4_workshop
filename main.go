@@ -7,4 +7,5 @@ func main() {
 	name := "Toom"
 	fmt.Println(name)
 	fmt.Println("nice to meet you")
+	fmt.Print("nice")
 }
