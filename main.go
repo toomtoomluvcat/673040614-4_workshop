@@ -12,4 +12,7 @@ func main() {
 	if true {
 		fmt.Println("hello")
 	}
+	if false{
+		fmt.Println("world")
+	}
 }
